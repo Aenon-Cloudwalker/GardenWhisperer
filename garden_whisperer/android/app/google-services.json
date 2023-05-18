@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922360867147",
+    "project_id": "gardenwhisperer-cdfc8",
+    "storage_bucket": "gardenwhisperer-cdfc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922360867147:android:339db481a176dd070ee0ce",
+        "android_client_info": {
+          "package_name": "com.cloudwalker.gardenwhisperer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922360867147-o4qgfabpftpb3isd88l04nvutcnup603.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwH1-mr2bbwp3V-paBdw_0t7xiWMAze1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922360867147-o4qgfabpftpb3isd88l04nvutcnup603.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
